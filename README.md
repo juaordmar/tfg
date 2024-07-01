@@ -1,0 +1,3 @@
+Aquí está todo el código relativo a mi tfg, es bastante básico de utilizar. Escoges uno de los datasets (son pequeñitos), entrenas el modelo y generas texto. Creo que lo más interesante que se puede hacer es probar diferentes configuraciones de hiperparámetros y quizá intentar aplicar una bi-lstm.
+También sería interesante desarrollar el positional encoding para el máximo esplendor del transformer y se podría considerar, para los lenguajes naturales, utilizar unos buenos embeddings y probar con diferentes tokenizaciones.
+No tengo mucha intención de tocar este código de momento así que se quedará como el resto de proyectos de este perfil xd.
